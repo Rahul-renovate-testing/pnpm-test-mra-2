@@ -1,0 +1,9 @@
+{
+  "minimumReleaseAge": "0 days",
+  "packageRules": [
+    {
+      "matchPackageNames": ["xmldoc"],
+      "minimumReleaseAge": "0 days"
+    }
+  ]
+}
