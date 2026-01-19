@@ -5,5 +5,6 @@
       "matchPackageNames": ["xmldoc"],
       "minimumReleaseAge": "0 days"
     }
-  ]
+  ],
+  "dependencyDashboard": true
 }
