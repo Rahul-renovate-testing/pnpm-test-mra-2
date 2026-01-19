@@ -2,3 +2,6 @@
 # to mitigate supply chain risks
 # - https://pnpm.io/settings#minimumreleaseage
 minimumReleaseAge: 10080
+minimumReleaseAgeExclude:
+  # Renovate security update: xmldoc@2.0.3
+  - xmldoc@2.0.3
